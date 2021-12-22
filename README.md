@@ -6,6 +6,8 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=%23F7E727&center=true&width=1000&lines=I'm+an+aspiring+Developer;I'm+a+Competitive+Programmer;I'm+a+Learning+Enthusiast;I'm+an+Explorer)](https://git.io/typing-svg)
 <br>
 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<br>
 <h3 align="left"><b>Practice Platforms:</h3> <p align="left"> <a
 href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rishabhgupta2804/practice/"
 target="blank"><img align="center"
@@ -22,6 +24,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 alt="https://www.hackerrank.com/rishabh2804" height="30" width="40" /></a> </p>
 
 <br>
+
 <h3 align="left"><b>Competitive Coding Platforms:</h3> <p align="left"> <a
 href="https://www.codechef.com/users/https://www.codechef.com/users/rishabh2804"
 target="blank"><img align="center"
@@ -55,7 +58,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/"
 target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-alt="mysql" width="40" height="40"/> </a> </p> <br> <p>&nbsp;<img align="center"
+alt="mysql" width="40" height="40"/> </a> </p> <br> 
+
+<p>&nbsp;<img align="center"
 src="https://github-readme-stats.vercel.app/api?username=rishabh2804&show_icons=true&locale=en"
 alt="rishabh2804" /></p> <br>
 
