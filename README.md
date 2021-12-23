@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <b>Rishabh Gupta</h1>
+<h1 align="center">Hi <span class="wave">👋</span>, I'm <b>Rishabh Gupta</h1>
 <h3 align="center">A learning enthusiast who likes to explore and learn various techniques and skills in the world of technology</h3>
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=%23F7E727&center=true&width=1000&lines=I'm+an+aspiring+Developer;I'm+a+Competitive+Programmer;I'm+a+Learning+Enthusiast;I'm+an+Explorer)](https://git.io/typing-svg)
