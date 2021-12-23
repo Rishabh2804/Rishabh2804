@@ -10,8 +10,6 @@
   techniques and skills in the world of technology 
 </h2>
 
-<br>
-
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=%23F7E727&center=true&width=1000&lines=I'm+an+aspiring+Developer;I'm+a+Competitive+Programmer;I'm+a+Learning+Enthusiast;I'm+an+Explorer)](https://git.io/typing-svg)
 
 
@@ -48,7 +46,6 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  </a> 
 </p>
 
-<h1></h1>
 <br>
 
 ## <b>Competitive Coding Platforms :-
@@ -71,7 +68,6 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  </a>
 </p>
 
-<h1></h1>
 <br>
 
 ## <b>Languages and Tools:-
@@ -134,7 +130,6 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  </a> 
 </p> 
 
-<h1></h1>
 <br>
 
 <!-- Github Stats-->
