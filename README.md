@@ -5,11 +5,6 @@
     I'm <b>Rishabh Gupta 
 </h1> 
 
-<h2 align="center"> 
-  A learning enthusiast who likes to explore and learn various
-  techniques and skills in the world of technology 
-</h2>
-
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=%23F7E727&center=true&width=1000&lines=I'm+an+aspiring+Developer;I'm+a+Competitive+Programmer;I'm+a+Learning+Enthusiast;I'm+an+Explorer)](https://git.io/typing-svg)
 
 <img width="400" align="right" alt="Github"
