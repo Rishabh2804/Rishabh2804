@@ -5,6 +5,7 @@
     I'm <b>Rishabh Gupta 
 </h1> 
 
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=%23F7E727&center=true&width=1000&lines=I'm+an+aspiring+Developer;I'm+a+Competitive+Programmer;I'm+a+Learning+Enthusiast;I'm+an+Explorer)](https://git.io/typing-svg)
 
 <img width="400" align="right" alt="Github"
@@ -127,13 +128,13 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 <br>
 
 <!-- Github Stats-->
-
+#
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=rishabh2804&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh2804&layout=compact&theme=tokyonight)](https://github.com/Rishabh2804/github-readme-stats)
     
-<!-- Streak Card -->
+<!-- Most used languages -->
 
-[![Streak C](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh2804&theme=highcontrast)](https://github.com/Rishabh2804/github-readme-stats)
+# [![Streak C](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh2804&theme=highcontrast)](https://github.com/Rishabh2804/github-readme-stats)
 
 # ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
 
