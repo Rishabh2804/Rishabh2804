@@ -6,7 +6,7 @@
 </h1> 
 
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=%23F7E727&center=true&width=1000&lines=I'm+an+aspiring+Developer;I'm+a+Competitive+Programmer;I'm+a+Learning+Enthusiast;I'm+an+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=%23F7E727&center=true&width=1000&lines=I'm+an+aspiring+Developer;I'm+a+Competitive+Programmer;I'm+a+Learning+Enthusiast;I'm+an+Explorer)](https://git.io/typing-svg)
 
 <img width="400" align="right" alt="Github"
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" 
@@ -128,18 +128,22 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 <br>
 
 <!-- Github Stats-->
-#
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=rishabh2804&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh2804&layout=compact&theme=tokyonight)](https://github.com/Rishabh2804/github-readme-stats)
-    
-<!-- Most used languages -->
 
-# [![Streak C](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh2804&theme=highcontrast)](https://github.com/Rishabh2804/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=rishabh2804&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh2804&layout=compact&theme=tokyonight)
+![Streak C](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh2804&theme=highcontrast)](https://github.com/Rishabh2804/github-readme-stats)
 
 # ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
 
 
 ## <b>Connect with me@ :-
+<a 
+    target="_blank" 
+    href="https://github.com/Rishabh2804">
+    <img
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </img>    
+</a>
 <a 
     target="_blank"
     href="https://www.linkedin.com/in/rishabh-gupta-2804/">
@@ -152,12 +156,5 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     href="mailto:rishabhgupta2804@gmail.com">
     <img
         src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
-    </img>    
-</a>
-<a 
-    target="_blank" 
-    href="https://github.com/Rishabh2804">
-    <img
-        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </img>    
 </a>
