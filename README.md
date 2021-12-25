@@ -75,13 +75,13 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="VS code" width="40" height="40"
     /> 
  </a> 
- <a
-    href="https://azure.microsoft.com/en-in/" 
-    target="_blank" 
-    rel="noreferrer"> 
+ <a 
+    href="https://www.eclipse.org"
+    target="_blank" rel="noreferrer"> 
     <img
-        src=https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg
-        alt="azure" width="40" height="40"/> 
+        src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Eclipse Icon.png"
+        alt="eclipse" width="40" height="40"
+    /> 
  </a> 
  <a
     href="https://www.cprogramming.com/" 
@@ -100,6 +100,14 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     /> 
  </a> 
  <a 
+    href="https://www.java.com" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+        alt="java" width="40" height="40"
+    /> 
+ </a> 
+ <a 
     href="https://git-scm.com/"
     target="_blank" rel="noreferrer"> 
     <img
@@ -107,13 +115,13 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         width="40" height="40"
     /> 
  </a> 
- <a 
-    href="https://www.java.com" 
-    target="_blank" rel="noreferrer"> 
+ <a
+    href="https://azure.microsoft.com/en-in/" 
+    target="_blank" 
+    rel="noreferrer"> 
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-        alt="java" width="40" height="40"
-    /> 
+        src=https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg
+        alt="azure" width="40" height="40"/> 
  </a> 
  <a 
     href="https://www.mysql.com/"
