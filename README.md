@@ -13,7 +13,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 /> 
 
 
-## <b>Practice Platforms :-
+## <b>Practice Coding Platforms :-
 <p align="left"> 
  <a
     href=https://auth.geeksforgeeks.org/user/rishabhgupta2804/practice/
@@ -43,7 +43,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 <br>
 
-## <b>Competitive Coding Platforms :-
+## <b>Competitive Programming Platforms :-
 <p align="left"> 
  <a 
     href=https://www.codechef.com/users/rishabh2804
