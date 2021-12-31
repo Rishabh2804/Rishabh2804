@@ -141,7 +141,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh2804&layout=compact&theme=tokyonight)
 ![Streak C](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh2804&theme=highcontrast)](https://github.com/Rishabh2804/github-readme-stats)
 
-<!-- # ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views) -->
+# ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
 
 
 ## <b>Connect with me@ :-
