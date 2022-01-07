@@ -31,6 +31,14 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="https://leetcode.com/rishabh2804/" height="30" width = "50"
     />
  </a>
+ <a 
+    href=https://www.hackerrank.com/Rishabh2804 
+    target="blank">    
+    <img 
+        src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+        alt="https://www.hackerrank.com/rishabh2804" height="30" width="40" 
+    />
+ </a>
  <a
     href=https://docs.microsoft.com/en-us/users/rishabh2804/
     target="blank">
@@ -39,15 +47,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="https://docs.microsoft.com/en-us/users/rishabh2804/" height="40" 
         width = "100"
     />
- </a> 
- <a 
-    href=https://www.hackerrank.com/Rishabh2804 
-    target="blank">    
-    <img 
-        src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-        alt="https://www.hackerrank.com/rishabh2804" height="30" width="40" 
-    />
- </a> 
+ </a>  
  
 </p>
 
