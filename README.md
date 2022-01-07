@@ -13,7 +13,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 /> 
 
 
-## <b>Practice Coding Platforms :-
+## <b>Learning Platforms :-
 <p align="left"> 
  <a
     href=https://auth.geeksforgeeks.org/user/rishabhgupta2804/practice/
@@ -33,10 +33,19 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  </a>
  <a 
     href=https://www.hackerrank.com/Rishabh2804 
-    target="blank">
+    target="blank">    
     <img 
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
         alt="https://www.hackerrank.com/rishabh2804" height="30" width="40" 
+    />
+ </a> 
+ <a
+    href=https://docs.microsoft.com/en-us/users/rishabh2804/
+    target="blank">
+    <img 
+        src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/Microsoft learning_logo.png"
+        alt="https://docs.microsoft.com/en-us/users/rishabh2804/" height="40" 
+        width = "100"
     />
  </a> 
 </p>
@@ -79,7 +88,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     href="https://www.eclipse.org"
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Eclipse Icon.png"
+        src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/Eclipse Icon.png"
         alt="eclipse" width="40" height="40"
     /> 
  </a> 
