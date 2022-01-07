@@ -19,7 +19,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     href=https://auth.geeksforgeeks.org/user/rishabhgupta2804/practice/
     target="blank">
     <img 
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+        src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
         alt="https://auth.geeksforgeeks.org/user/ rishabhgupta2804/practice/" height="30" width="50" 
     />
  </a> 
@@ -27,18 +27,10 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     href=https://leetcode.com/Rishabh2804/
     target="blank">
     <img 
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+        src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
         alt="https://leetcode.com/rishabh2804/" height="30" width = "50"
     />
  </a>
- <a 
-    href=https://www.hackerrank.com/Rishabh2804 
-    target="blank">    
-    <img 
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-        alt="https://www.hackerrank.com/rishabh2804" height="30" width="40" 
-    />
- </a> 
  <a
     href=https://docs.microsoft.com/en-us/users/rishabh2804/
     target="blank">
@@ -48,6 +40,15 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         width = "100"
     />
  </a> 
+ <a 
+    href=https://www.hackerrank.com/Rishabh2804 
+    target="blank">    
+    <img 
+        src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+        alt="https://www.hackerrank.com/rishabh2804" height="30" width="40" 
+    />
+ </a> 
+ 
 </p>
 
 <br>
