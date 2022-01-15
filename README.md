@@ -8,13 +8,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=%23F7E727&center=true&width=1000&lines=I'm+an+aspiring+Developer;I'm+a+Competitive+Programmer;I'm+a+Learning+Enthusiast;I'm+an+Explorer)](https://git.io/typing-svg)
 
-<img width="400" align="right" alt="Github"
+<img width="380" align="right" alt="Github"
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" 
 /> 
 
 
-## <b>Learning Platforms :-
+# <b>Learning Platforms :-</b>
 <p align="left"> 
+<!-- GeeksForGeeks -->
  <a
     href=https://auth.geeksforgeeks.org/user/rishabhgupta2804/practice/
     target="_blank">
@@ -23,6 +24,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="https://auth.geeksforgeeks.org/user/ rishabhgupta2804/practice/" height="30" width="50" 
     />
  </a> 
+ <!-- LeetCode -->
  <a 
     href=https://leetcode.com/Rishabh2804/
     target="blank">
@@ -31,6 +33,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="https://leetcode.com/rishabh2804/" height="30" width = "50"
     />
  </a>
+ <!-- HackerRank -->
  <a 
     href=https://www.hackerrank.com/Rishabh2804 
     target="blank">    
@@ -39,6 +42,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="https://www.hackerrank.com/rishabh2804" height="30" width="40" 
     />
  </a>
+ <!-- MS-Learn -->
  <a
     href=https://docs.microsoft.com/en-us/users/rishabh2804/
     target="blank">
@@ -53,8 +57,9 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 <br>
 
-## <b>Competitive Programming Platforms :-
+# <b>Competitive Programming Platforms :-</b>
 <p align="left"> 
+<!-- CodeChef -->
  <a 
     href=https://www.codechef.com/users/rishabh2804
     target="blank">
@@ -63,6 +68,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="https://www.codechef.com/users/rishabh2804" height="30" 
     />
  </a>
+ <!-- CodeForces -->
  <a 
     href=https://codeforces.com/profile/Rishabh2804 
     target="blank">
@@ -75,8 +81,9 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 <br>
 
-## <b>Languages and Tools:-
+# <b>Languages and Tools :-</b>
 <p align="left">
+<!-- vs code -->
  <a 
     href="https://code.visualstudio.com/" 
     target="_blank" rel="noreferrer"> 
@@ -85,6 +92,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="VS code" width="40" height="40"
     /> 
  </a> 
+ <!-- eclipse -->
  <a 
     href="https://www.eclipse.org"
     target="_blank" rel="noreferrer"> 
@@ -93,6 +101,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="eclipse" width="40" height="40"
     /> 
  </a> 
+ <!-- c -->
  <a
     href="https://www.cprogramming.com/" 
     target="_blank" rel="noreferrer"> 
@@ -101,6 +110,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="c" width="40" height="40"
     /> 
  </a> 
+ <!-- cpp -->
  <a 
     href="https://www.w3schools.com/cpp/"
     target="_blank" rel="noreferrer"> 
@@ -109,6 +119,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="cplusplus" width="40" height="40"
     /> 
  </a> 
+ <!-- java -->
  <a 
     href="https://www.java.com" 
     target="_blank" rel="noreferrer"> 
@@ -117,6 +128,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="java" width="40" height="40"
     /> 
  </a> 
+ <!-- git -->
  <a 
     href="https://git-scm.com/"
     target="_blank" rel="noreferrer"> 
@@ -125,6 +137,25 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         width="40" height="40"
     /> 
  </a> 
+ <!-- dart -->
+ <a 
+    href="https://dart.dev/" 
+    target="_blank" rel="noreferrer"> 
+    <img    
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"
+        alt="dart" width="40" height="40"
+    /> 
+ </a> 
+ <!-- flutter -->
+ <a 
+    href="https://flutter.dev/" 
+    target="_blank" rel="noreferrer"> 
+    <img    
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+        alt="flutter" width="40" height="40"
+    /> 
+ </a> 
+ <!-- azure -->
  <a
     href="https://azure.microsoft.com/en-in/" 
     target="_blank" 
@@ -133,6 +164,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         src=https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg
         alt="azure" width="40" height="40"/> 
  </a> 
+ <!-- sql -->
  <a 
     href="https://www.mysql.com/"
     target="_blank" rel="noreferrer"> 
@@ -147,14 +179,15 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 <!-- Github Stats-->
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=rishabh2804&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rishabh2804&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh2804&layout=compact&theme=tokyonight)
-![Streak C](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh2804&theme=highcontrast)](https://github.com/Rishabh2804/github-readme-stats)
+![Streak C](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh2804&theme=highcontrast)
 
 # ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
 
 
-## <b>Connect with me@ :-
+# <b>Connect with me@ :-</b>
+<!-- Github -->
 <a 
     target="_blank" 
     href="https://github.com/Rishabh2804">
@@ -162,6 +195,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </img>    
 </a>
+<!-- LinkedIn -->
 <a 
     target="_blank"
     href="https://www.linkedin.com/in/rishabh-gupta-2804/">
@@ -169,6 +203,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
     </img>
 </a>
+<!-- GMail -->
 <a 
     target="_blank" 
     href="mailto:rishabhgupta2804@gmail.com">
