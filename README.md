@@ -173,7 +173,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         src=https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg
         alt="azure" width="40" height="40"/> 
  </a> 
- <!-- sql -->
+ <!-- SQL -->
  <a 
     href="https://www.mysql.com/"
     target="_blank" rel="noreferrer"> 
