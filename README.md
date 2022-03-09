@@ -197,6 +197,23 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 # <b>Connect with me@ :-</b>
 <p>
+<!-- Github -->
+<a 
+    target="_blank" 
+    href="https://github.com/Rishabh2804">
+    <img
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </img>    
+</a>
+<!-- StackOverFlow -->
+<a 
+    target="_blank" 
+    href="https://stackoverflow.com/users/17798976/rishabh-gupta">
+    <img
+        src="https://img.shields.io/badge/StackOverFlow-100000?style=for-the-badge&logo=stackoverflow&logoColor=white">
+    </img>
+</a>
+<br>
 <!-- LinkedIn -->
 <a 
     target="_blank"
@@ -213,21 +230,12 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
     </img>    
 </a>
-<br>
-<!-- Github -->
+<!-- Twitter -->
 <a 
     target="_blank" 
-    href="https://github.com/Rishabh2804">
+    href="https://twitter.com/ris0_2804">
     <img
-        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </img>    
-</a>
-<!-- StackOverFlow -->
-<a 
-    target="_blank" 
-    href="https://stackoverflow.com/users/17798976/rishabh-gupta">
-    <img
-        src="https://img.shields.io/badge/StackOverFlow-100000?style=for-the-badge&logo=stackoverflow&logoColor=white">
+        src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white">
     </img>
 </a>
 </p>
