@@ -61,11 +61,11 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 <p align="left"> 
 <!-- CodeChef -->
  <a 
-    href=https://www.codechef.com/users/coding_hazard
+    href=https://www.codechef.com/users/i_am_ris0
     target="blank">
     <img
         src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"
-        alt="https://www.codechef.com/users/rishabh2804" height="30" 
+        alt="https://www.codechef.com/users/i_am_ris0" height="30" 
     />
  </a>
  <!-- CodeForces -->
