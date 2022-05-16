@@ -61,11 +61,11 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 <p align="left"> 
 <!-- CodeChef -->
  <a 
-    href=https://www.codechef.com/users/i_am_ris0
+    href=https://www.codechef.com/users/coding_hazard
     target="blank">
     <img
         src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"
-        alt="https://www.codechef.com/users/i_am_ris0" height="30" 
+        alt="https://www.codechef.com/users/rishabh2804" height="30" 
     />
  </a>
  <!-- CodeForces -->
@@ -99,6 +99,15 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     <img
         src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/Eclipse Icon.png"
         alt="eclipse" width="40" height="40"
+    /> 
+ </a> 
+ <!-- android studio -->
+<a 
+    href="https://developer.android.com/studio"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"
+        alt="android studio" width="40" height="40"
     /> 
  </a> 
  <!-- c -->
@@ -137,6 +146,23 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="java" width="40" height="40"
     /> 
  </a> 
+ <!-- kotlin -->
+ <a 
+    href="https://kotlinlang.org/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
+        alt="kotlin" width="40" height="35"
+    /> 
+ </a> 
+ <!-- android -->
+    <a 
+        href="https://developer.android.com/" 
+        target="_blank" rel="noreferrer"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg"
+            alt="android" width="40" height="40"
+        />
  <!-- git -->
  <a 
     href="https://git-scm.com/"
@@ -164,6 +190,14 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="flutter" width="40" height="40"
     /> 
  </a> 
+ <!-- google cloud -->
+    <a 
+        href="https://cloud.google.com/" 
+        target="_blank" rel="noreferrer"> 
+        <img    
+            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+            alt="google cloud" width="40" height="40"
+        />
  <!-- azure -->
  <a
     href="https://azure.microsoft.com/en-in/" 
@@ -173,7 +207,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         src=https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg
         alt="azure" width="40" height="40"/> 
  </a> 
- <!-- SQL -->
+ <!-- SQL
  <a 
     href="https://www.mysql.com/"
     target="_blank" rel="noreferrer"> 
@@ -181,7 +215,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="40" height="40"
     /> 
- </a> 
+ </a>  -->
 </p> 
 
 <br>
