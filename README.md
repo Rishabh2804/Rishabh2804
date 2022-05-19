@@ -21,7 +21,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     target="_blank">
     <img 
         src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-        alt="https://auth.geeksforgeeks.org/user/ rishabhgupta2804/practice/" height="30" width="50" 
+        alt="gfg" height="30" width="50" 
     />
  </a> 
  <!-- LeetCode -->
@@ -30,7 +30,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     target="blank">
     <img 
         src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-        alt="https://leetcode.com/rishabh2804/" height="30" width = "50"
+        alt="leetcode" height="30" width = "50"
     />
  </a>
  <!-- HackerRank -->
@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     target="blank">    
     <img 
         src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-        alt="https://www.hackerrank.com/rishabh2804" height="30" width="40" 
+        alt="hackerrank" height="30" width="40" 
     />
  </a>
  <!-- MS-Learn -->
@@ -48,13 +48,11 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     target="blank">
     <img 
         src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/Microsoft learning_logo.png"
-        alt="https://docs.microsoft.com/en-us/users/rishabh2804/" height="40" 
+        alt="MS-Learn" height="40" 
         width = "100"
     />
  </a>  
- 
 </p>
-
 <br>
 
 # <b>Competitive Programming Platforms :-</b>
@@ -65,7 +63,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     target="blank">
     <img
         src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"
-        alt="https://www.codechef.com/users/rishabh2804" height="30" 
+        alt="codechef" height="30" 
     />
  </a>
  <!-- CodeForces -->
@@ -74,7 +72,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     target="blank">
     <img 
         src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"
-        alt="https://codeforces.com/profile/rishabh2804" height="30" 
+        alt="codeforces" height="30" 
     />
  </a>
 </p>
