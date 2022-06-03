@@ -2,7 +2,7 @@
   Hi 
   <img 
     src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" width="30px">, 
-    I'm <b>Rishabh Gupta 
+    I'm <b>Rishabh Gupta</b>
 </h1> 
 
 
