@@ -1,10 +1,9 @@
 <h1 align="center"> 
-  Hi 
+  Hi
   <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, 
-    I'm <b>Rishabh Gupta</b>
+         alt="Waving hand animated gif"         
+         width="40"/>,
+   I'm <b>Rishabh Gupta</b>
 </h1> 
 
 
