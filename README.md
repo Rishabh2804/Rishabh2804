@@ -1,7 +1,9 @@
 <h1 align="center"> 
   Hi 
-  <img 
-    src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" width="30px">, 
+  <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, 
     I'm <b>Rishabh Gupta</b>
 </h1> 
 
