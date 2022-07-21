@@ -14,7 +14,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 /> 
 
 
-## <b>Learning Platforms :-</b>
+# <b>Learning Platforms :-</b>
 <p align="left"> 
 <!-- GeeksForGeeks -->
  <a
@@ -56,7 +56,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 </p>
 <br>
 
-## <b>Competitive Programming Platforms :-</b>
+# <b>Competitive Programming Platforms :-</b>
 <p align="left"> 
 <!-- CodeChef -->
  <a 
@@ -80,7 +80,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 <br>
 
-## <b>Languages and Tools :-</b>
+# <b>Languages and Tools :-</b>
 <p align="left">
 <!-- vs code -->
  <a 
@@ -217,11 +217,12 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  </a>  -->
 </p> 
 
-<br>
+# 
+
 <!-- Github Stats-->
 
 # <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg" width = 500>
-# <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>
+# <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-green.svg" width = 600>
 
 # ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
 
