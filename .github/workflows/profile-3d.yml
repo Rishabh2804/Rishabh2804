@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0,6,9,12,15,18,21 * * *"}]
   workflow_dispatch:
 
 jobs:
