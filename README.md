@@ -14,7 +14,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 /> 
 
 
-# <b>Learning Platforms :-</b>
+## <b>Learning Platforms :-</b>
 <p align="left"> 
 <!-- GeeksForGeeks -->
  <a
@@ -56,11 +56,11 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 </p>
 <br>
 
-# <b>Competitive Programming Platforms :-</b>
+## <b>Competitive Programming Platforms :-</b>
 <p align="left"> 
 <!-- CodeChef -->
  <a 
-    href=https://www.codechef.com/users/i_am_ris0
+    href=https://www.codechef.com/users/coding_hazard
     target="blank">
     <img
         src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"
@@ -80,7 +80,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 <br>
 
-# <b>Languages and Tools :-</b>
+## <b>Languages and Tools :-</b>
 <p align="left">
 <!-- vs code -->
  <a 
@@ -217,25 +217,24 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  </a>  -->
 </p> 
 
-<br>
+# 
 
 <!-- Github Stats-->
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=rishabh2804&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=rishabh2804&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh2804&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh2804&layout=compact&theme=tokyonight)
-[![Streak C](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh2804&theme=highcontrast)](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh2804&theme=highcontrast)
+# <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg" width = 600>
+# <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>
 
 # ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
 
 
-# <b>Connect with me@ :-</b>
+## <b>Connect with me@ :-</b>
 <p>
 <!-- Github -->
 <a 
     target="_blank" 
     href="https://github.com/Rishabh2804">
     <img
-        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
     </img>    
 </a>
 <!-- StackOverFlow -->
@@ -243,7 +242,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     target="_blank" 
     href="https://stackoverflow.com/users/17798976/rishabh-gupta">
     <img
-        src="https://img.shields.io/badge/StackOverFlow-100000?style=for-the-badge&logo=stackoverflow&logoColor=white">
+        src="https://img.shields.io/badge/StackOverFlow-AAAAAA?style=for-the-badge&logo=stackoverflow&logoColor=orange">
     </img>
 </a>
 <br>
@@ -272,3 +271,4 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     </img>
 </a>
 </p>
+
