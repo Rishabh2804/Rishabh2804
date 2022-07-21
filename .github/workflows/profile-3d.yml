@@ -1,9 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 0,6,9,12,15,18,21 * * *"}]
-  workflow_dispatch:
+  # Schedule updates (each day)
+  schedule: [{cron: "0 6 * * *"}]
 
 jobs:
   build:
