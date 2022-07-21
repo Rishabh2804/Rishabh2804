@@ -221,7 +221,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 <!-- Github Stats-->
 
-# <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg" width = 600>
+# <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg" width = 500>
 # <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>
 
 # ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
