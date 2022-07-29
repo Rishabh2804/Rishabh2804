@@ -219,13 +219,13 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 # 
 
-<!-- Github Stats-->
+<!-- Github Stats © github.com/lowlighter--> 
+# [<img alt = "Github Stats" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg" width = 500>](https://github.com/Rishabh2804)
 
-# <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg" width = 500>
-# <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>
+<!-- 3D Contri Graph © https://github.com/yoshi389111--> 
+# [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/Rishabh2804)
 
 # ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
-
 
 ## <b>Connect with me@ :-</b>
 <p>
