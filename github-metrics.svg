@@ -102,7 +102,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.333333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.5 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -127,12 +127,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.79m out of 96m users</span>
+                                    <span class="gh">ranked 1.69m out of 96m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">22</div>
+                                        <div class="value">23</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 22 public repositories</div>
+                                <div class="text">Published 23 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -262,7 +262,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.9411362080766565 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.153319644079391 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -416,7 +416,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.16m out of 333m repositories</span>
+                                    <span class="gh">ranked 4.16m out of 334m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -568,27 +568,27 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="193.401150625343" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="193.401150625343" y="0" width="135.09824336319707" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="328.4993939885401" y="0" width="68.5402870915939" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="397.03968108013396" y="0" width="11.530957266417698" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="408.5706383465517" y="0" width="5.147998569320616" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="413.7186369158723" y="0" width="4.128523663408058" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="417.8471605792804" y="0" width="1.3172241923829355" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="419.1643847716633" y="0" width="40.835615228336714" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.11027658533206" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="209.11027658533206" y="0" width="149.23044606284344" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="358.34072264817553" y="0" width="53.078405695731554" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="411.41912834390706" y="0" width="8.897412920425571" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="420.3165412643326" y="0" width="3.972252079920803" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="424.2887933442534" y="0" width="3.1856140766447743" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="427.47440742089816" y="0" width="1.016384613837535" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="428.4907920347357" y="0" width="31.50920796526426" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C++
+                                Java
                             </div>
                             <small>
-                                <div>580 kB</div>
-                                <div>42.04%</div>
+                                <div>813 kB</div>
+                                <div>45.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -599,8 +599,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>205 kB</div>
-                                <div>14.9%</div>
+                                <div>206 kB</div>
+                                <div>11.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -612,7 +612,7 @@
                             </div>
                             <small>
                                 <div>15.4 kB</div>
-                                <div>1.12%</div>
+                                <div>0.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -624,7 +624,7 @@
                             </div>
                             <small>
                                 <div>3.96 kB</div>
-                                <div>0.29%</div>
+                                <div>0.22%</div>
                             </small>
                         </div>
                     </section>
@@ -632,13 +632,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Java
+                                C++
                             </div>
                             <small>
-                                <div>405 kB</div>
-                                <div>29.37%</div>
+                                <div>580 kB</div>
+                                <div>32.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -650,7 +650,7 @@
                             </div>
                             <small>
                                 <div>34.6 kB</div>
-                                <div>2.51%</div>
+                                <div>1.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -662,7 +662,7 @@
                             </div>
                             <small>
                                 <div>12.4 kB</div>
-                                <div>0.9%</div>
+                                <div>0.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -674,7 +674,7 @@
                             </div>
                             <small>
                                 <div>122 kB</div>
-                                <div>8.88%</div>
+                                <div>6.85%</div>
                             </small>
                         </div>
                     </section>
