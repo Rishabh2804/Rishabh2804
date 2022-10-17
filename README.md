@@ -208,13 +208,14 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  </a>  -->
 </p> 
 
+<br>
+
 <!-- # <b>Hacktober Fest 2022</b>
 [![@rish2804's Holopin board](https://holopin.io/api/user/board?user=rish2804)](https://holopin.io/@rish2804)
 
 ---
 <br> -->
 
-#
 # <b>My GitHub Stats 📊</b>
 
 <!-- Github Stats © github.com/lowlighter--> 
@@ -226,6 +227,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
+<br>
 
 # <b>Connect with me@ :-</b>
 <p>
