@@ -208,42 +208,24 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  </a>  -->
 </p> 
 
----
-<br>
-
 <!-- # <b>Hacktober Fest 2022</b>
 [![@rish2804's Holopin board](https://holopin.io/api/user/board?user=rish2804)](https://holopin.io/@rish2804)
 
 ---
 <br> -->
 
+#
 # <b>My GitHub Stats 📊</b>
-<div style="display: flex; flex-direction: column; padding: 10px">
-    <div style="display: flex; margin: 0% 1.5% 0% 0%">
-        <div style="display: flex; flex-direction: column; margin: 2%">
-            <!-- Github Stats -->
-            <img alt = "Rishabh's github stats" src = "https://github-readme-stats.vercel.app/api?username=Rishabh2804&show_icons=true&theme=radical&line_height=27"  />
-            <br>
-            <!-- Github Streak Card -->
-            <img alt = "Streak Chart" src = "https://github-readme-streak-stats.herokuapp.com/?user=Rishabh2804&theme=radical"/>
-        </div>
-        <div>
-            <!-- Github Achievements © github.com/lowlighter--> 
-            <img alt = "Github Stats" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg">
-        </div>
-    </div>    
-    <div style="display: flex; margin: 3% 1.5% 3% 1.5%">    
-        <!-- 3D Contri Graph © https://github.com/yoshi389111--> 
-        <img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-view.svg" >
-    </div>
-</div>
 
-<br>
+<!-- Github Stats © github.com/lowlighter--> 
+# [<img alt = "Github Stats" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg" width = 500>](https://github.com/Rishabh2804)
+
+<!-- 3D Contri Graph © https://github.com/yoshi389111--> 
+# [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/Rishabh2804)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
-<br>
 
 # <b>Connect with me@ :-</b>
 <p>
