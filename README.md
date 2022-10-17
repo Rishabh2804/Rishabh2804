@@ -7,13 +7,13 @@
 </h1> 
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=40&duration=3500&pause=700&color=F7E707D7&center=true&vCenter=true&height=75&width=1300px&lines=I'm+an+aspiring+Developer💻;I'm+a+Competitive+Programmer🏆;I'm+a+Learning+Enthusiast🧐;I'm+an+Explorer🕵️‍♂️)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=F7E707D7&center=true&vCenter=true&height=75&width=1300px&lines=I'm+an+aspiring+Developer💻;I'm+a+Competitive+Programmer🏆;I'm+a+Learning+Enthusiast🧐;I'm+an+Explorer🕵️‍♂️)](https://git.io/typing-svg)
 
 <img width=380 align="right" alt="Github"
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" 
 /> 
 
-# <b>Learning Platforms :-</b>
+# <b>Learning Platforms 📚:-</b>
 <p align="left"> 
 <!-- GeeksForGeeks -->
  <a
@@ -33,15 +33,6 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="leetcode" height="30" width = "50"
     />
  </a>
- <!-- HackerRank -->
- <a 
-    href=https://www.hackerrank.com/Rishabh2804 
-    target="blank">    
-    <img 
-        src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-        alt="hackerrank" height="30" width="40" 
-    />
- </a>
  <!-- MS-Learn -->
  <a
     href=https://docs.microsoft.com/en-us/users/rishabh2804/
@@ -56,7 +47,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 <br>
 
-# <b>Competitive Programming Platforms :-</b>
+# <b>Competitive Programming Arenas ⏱:-</b>
 <p align="left"> 
 <!-- CodeChef -->
  <a 
@@ -80,7 +71,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 <br>
 
-# <b>Languages and Tools :-</b>
+# <b>Languages and Tools ⚙:-</b>
 <p align="left">
 <!-- vs code -->
  <a 
@@ -217,7 +208,6 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  </a>  -->
 </p> 
 
----
 <br>
 
 <!-- ## <b>Hacktober Fest 2022</b>
@@ -226,11 +216,10 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 ---
 <br> -->
 
-## <b>📊 My GitHub Stats</b>
-
+# <b>My GitHub Stats 📊</b>
 <div style="display: flex; flex-direction: column; padding: 10px">
-    <div style="display: flex;">
-        <div style="display: flex; flex-direction: column; margin: 10px">
+    <div style="display: flex; margin: 0% 4% 0% 1%">
+        <div style="display: flex; flex-direction: column; margin: 2%">
             <!-- github stats -->
             <img alt = "Rishabh's github stats" src = "https://github-readme-stats.vercel.app/api?username=Rishabh2804&show_icons=true&theme=radical&line_height=27"  />
             <br>
@@ -238,11 +227,11 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
             <img alt = "Streak Chart" src = "https://github-readme-streak-stats.herokuapp.com/?user=Rishabh2804&theme=radical"/>
         </div>
         <div>
-            <!-- Github Stats © github.com/lowlighter--> 
+            <!-- Github Achievements © github.com/lowlighter--> 
             <img alt = "Github Stats" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg">
         </div>
-    </div>
-    <div style="padding: 10px">
+    </div>    
+    <div style="display: flex; margin: 3% 4% 3% 2%">    
         <!-- 3D Contri Graph © https://github.com/yoshi389111--> 
         <img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-view.svg" >
     </div>
