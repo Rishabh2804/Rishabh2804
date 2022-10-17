@@ -7,7 +7,7 @@
 </h1> 
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=F7E707D7&center=true&vCenter=true&height=75&width=1300px&lines=I'm+an+aspiring+Developer💻;I'm+a+Competitive+Programmer🏆;I'm+a+Learning+Enthusiast🧐;I'm+an+Explorer🕵️‍♂️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=F7E707D7&center=true&vCenter=true&height=75&width=1300px&lines=I'm+an+aspiring+Developer💻;I'm+a+Competitive+Programmer🏆;I'm+a+Learning+Enthusiast🧐;I'm+an+Explorer🕵️‍♂️)](https://git.io/typing-svg)
 
 <img width=380 align="right" alt="Github"
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" 
@@ -208,9 +208,10 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  </a>  -->
 </p> 
 
+---
 <br>
 
-<!-- ## <b>Hacktober Fest 2022</b>
+<!-- # <b>Hacktober Fest 2022</b>
 [![@rish2804's Holopin board](https://holopin.io/api/user/board?user=rish2804)](https://holopin.io/@rish2804)
 
 ---
@@ -218,12 +219,12 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 # <b>My GitHub Stats 📊</b>
 <div style="display: flex; flex-direction: column; padding: 10px">
-    <div style="display: flex; margin: 0% 4% 0% 1%">
+    <div style="display: flex; margin: 0% 1.5% 0% 0%">
         <div style="display: flex; flex-direction: column; margin: 2%">
-            <!-- github stats -->
+            <!-- Github Stats -->
             <img alt = "Rishabh's github stats" src = "https://github-readme-stats.vercel.app/api?username=Rishabh2804&show_icons=true&theme=radical&line_height=27"  />
             <br>
-            <!-- streak -->
+            <!-- Github Streak Card -->
             <img alt = "Streak Chart" src = "https://github-readme-streak-stats.herokuapp.com/?user=Rishabh2804&theme=radical"/>
         </div>
         <div>
@@ -231,17 +232,20 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
             <img alt = "Github Stats" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg">
         </div>
     </div>    
-    <div style="display: flex; margin: 3% 4% 3% 2%">    
+    <div style="display: flex; margin: 3% 1.5% 3% 1.5%">    
         <!-- 3D Contri Graph © https://github.com/yoshi389111--> 
         <img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-view.svg" >
     </div>
 </div>
 
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
+<br>
 
-## <b>Connect with me@ :-</b>
+# <b>Connect with me@ :-</b>
 <p>
 <!-- Github -->
 <a 
@@ -256,7 +260,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     target="_blank" 
     href="https://stackoverflow.com/users/17798976/rishabh-gupta?tab=profile">
     <img
-        src="https://img.shields.io/badge/StackOverFlow-AAAAAA?style=for-the-badge&logo=stackoverflow&logoColor=orange">
+        src="https://img.shields.io/badge/StackOverFlow-D16F36?style=for-the-badge&logo=stackoverflow&logoColor=white">
     </img>
 </a>
 <br>
@@ -265,7 +269,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     target="_blank"
     href="https://www.linkedin.com/in/rishabh-gupta-2804/">
     <img
-        src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+        src="https://img.shields.io/badge/-LinkedIn-0077D9?style=for-the-badge&logo=Linkedin&logoColor=white">
     </img>
 </a>
 <!-- GMail -->
