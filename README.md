@@ -3,11 +3,11 @@
   <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" 
          alt="Waving hand animated gif"         
          width="40"/>,
-   I'm <b>Rishabh Gupta</b>
+   I'm <b>Rishabh Gupta😄</b>
 </h1> 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=%23F7E727&center=true&height=60&width=1000&lines=I'm+an+aspiring+Developer;I'm+a+Competitive+Programmer;I'm+a+Learning+Enthusiast;I'm+an+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=F7E707D7&center=true&vCenter=true&height=70&width=1000&lines=I'm+an+aspiring+Developer💻;I'm+a+Competitive+Programmer🏆;I'm+a+Learning+Enthusiast🧐;I'm+an+Explorer🕵️‍♂️)](https://git.io/typing-svg)
 
 <img width="380" align="right" alt="Github"
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" 
