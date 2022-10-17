@@ -7,12 +7,11 @@
 </h1> 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=F7E707D7&center=true&vCenter=true&height=70&width=1000&lines=I'm+an+aspiring+Developer💻;I'm+a+Competitive+Programmer🏆;I'm+a+Learning+Enthusiast🧐;I'm+an+Explorer🕵️‍♂️)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=40&duration=3500&pause=700&color=F7E707D7&center=true&vCenter=true&height=75&width=1300px&lines=I'm+an+aspiring+Developer💻;I'm+a+Competitive+Programmer🏆;I'm+a+Learning+Enthusiast🧐;I'm+an+Explorer🕵️‍♂️)](https://git.io/typing-svg)
 
-<img width="380" align="right" alt="Github"
+<img width=380 align="right" alt="Github"
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" 
 /> 
-
 
 # <b>Learning Platforms :-</b>
 <p align="left"> 
@@ -54,6 +53,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     />
  </a>  
 </p>
+
 <br>
 
 # <b>Competitive Programming Platforms :-</b>
@@ -217,15 +217,40 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  </a>  -->
 </p> 
 
-# 
+---
+<br>
 
-<!-- Github Stats © github.com/lowlighter--> 
-# [<img alt = "Github Stats" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg" width = 500>](https://github.com/Rishabh2804)
+<!-- ## <b>Hacktober Fest 2022</b>
+[![@rish2804's Holopin board](https://holopin.io/api/user/board?user=rish2804)](https://holopin.io/@rish2804)
 
-<!-- 3D Contri Graph © https://github.com/yoshi389111--> 
-# [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/Rishabh2804)
+---
+<br> -->
 
-# ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
+## <b>📊 My GitHub Stats</b>
+
+<div style="display: flex; flex-direction: column; padding: 10px">
+    <div style="display: flex;">
+        <div style="display: flex; flex-direction: column; margin: 10px">
+            <!-- github stats -->
+            <img alt = "Rishabh's github stats" src = "https://github-readme-stats.vercel.app/api?username=Rishabh2804&show_icons=true&theme=radical&line_height=27"  />
+            <br>
+            <!-- streak -->
+            <img alt = "Streak Chart" src = "https://github-readme-streak-stats.herokuapp.com/?user=Rishabh2804&theme=radical"/>
+        </div>
+        <div>
+            <!-- Github Stats © github.com/lowlighter--> 
+            <img alt = "Github Stats" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg">
+        </div>
+    </div>
+    <div style="padding: 10px">
+        <!-- 3D Contri Graph © https://github.com/yoshi389111--> 
+        <img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-view.svg" >
+    </div>
+</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
+
+---
 
 ## <b>Connect with me@ :-</b>
 <p>
